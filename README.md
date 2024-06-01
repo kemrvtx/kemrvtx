@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Palanikumar from INDIA
+- 👋 Hi, I’m @kemrvtx
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning javascript with node.js
 - 💞️ I’m looking to collaborate on learning Web Development courses
